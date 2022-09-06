@@ -1,0 +1,29 @@
+C:\Users\Abdalla\Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\bin\Release\BucklingFactor.exe.config
+C:\Users\Abdalla\Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\bin\Release\BucklingFactor.exe.manifest
+C:\Users\Abdalla\Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\bin\Release\BucklingFactor.application
+C:\Users\Abdalla\Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\bin\Release\BucklingFactor.exe
+C:\Users\Abdalla\Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\bin\Release\BucklingFactor.pdb
+C:\Users\Abdalla\Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.Form1.resources
+C:\Users\Abdalla\Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.Properties.Resources.resources
+C:\Users\Abdalla\Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.csproj.GenerateResource.cache
+C:\Users\Abdalla\Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.csproj.CoreCompileInputs.cache
+C:\Users\Abdalla\Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.exe.manifest
+C:\Users\Abdalla\Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.application
+C:\Users\Abdalla\Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.exe
+C:\Users\Abdalla\Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.pdb
+C:\Users\Abdalla\Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.csprojAssemblyReference.cache
+C:\Users\Abdalla\Desktop\Pseudo Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\bin\Release\BucklingFactor.exe.config
+C:\Users\Abdalla\Desktop\Pseudo Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\bin\Release\BucklingFactor.exe.manifest
+C:\Users\Abdalla\Desktop\Pseudo Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\bin\Release\BucklingFactor.application
+C:\Users\Abdalla\Desktop\Pseudo Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\bin\Release\BucklingFactor.exe
+C:\Users\Abdalla\Desktop\Pseudo Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\bin\Release\BucklingFactor.pdb
+C:\Users\Abdalla\Desktop\Pseudo Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.csprojAssemblyReference.cache
+C:\Users\Abdalla\Desktop\Pseudo Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.Form1.resources
+C:\Users\Abdalla\Desktop\Pseudo Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.Properties.Resources.resources
+C:\Users\Abdalla\Desktop\Pseudo Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.csproj.GenerateResource.cache
+C:\Users\Abdalla\Desktop\Pseudo Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.csproj.CoreCompileInputs.cache
+C:\Users\Abdalla\Desktop\Pseudo Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.TrustInfo.xml
+C:\Users\Abdalla\Desktop\Pseudo Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.exe.manifest
+C:\Users\Abdalla\Desktop\Pseudo Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.application
+C:\Users\Abdalla\Desktop\Pseudo Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.exe
+C:\Users\Abdalla\Desktop\Pseudo Desktop\4th civil\personal excels\bucklingfactor\BucklingFactor\obj\Release\BucklingFactor.pdb
