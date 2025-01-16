@@ -1,4 +1,6 @@
 BucklingFactor
 
-How to use the software:
-<video src="https://www.youtube.com/watch?v=aZZujCh3CpE" width="320" height="240" controls></video>
+Video on how to use the software:
+
+[https://www.youtube.com/watch?v=aZZujCh3CpE](https://www.youtube.com/watch?v=aZZujCh3CpE)
+[![How to use the software](https://img.youtube.com/vi/aZZujCh3CpE/0.jpg)](https://www.youtube.com/watch?v=aZZujCh3CpE)
